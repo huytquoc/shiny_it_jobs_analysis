@@ -1,0 +1,13 @@
+name: nycdsa_ht_webscrapping
+title: nycdsa_ht_webscrapping
+username:
+account: huytquoc
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 235948
+bundleId: 1084383
+url: https://huytquoc.shinyapps.io/nycdsa_ht_webscrapping/
+when: 1511113261.5769
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: dataW_v0.RData
